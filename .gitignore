@@ -1,0 +1,26 @@
+# python dirs
+__pycache__/
+.venv/
+venv/
+
+# python files
+*.pyc
+*.pyo
+
+# C dirs
+build/
+cmake-build-*/
+.cache/
+
+# C files
+*.o
+*.out
+*.elf
+
+*.a
+*.so
+
+compile_commands.json
+
+# system specific
+*.DS_Store
